@@ -1,128 +1,125 @@
-# 👋 Bonjour, je suis Landry Aweset Tessondong
+# 👋 Bonjour, je suis Jocelain Landry Aweset Tessondong
 
-🎓 **Data Scientist junior | Analyste de données | Assurance & Éducation**  
-📍 Canada | 🇨🇦  
-💡 Passionné par l’analyse de données, la modélisation statistique et l’impact des données dans les secteurs de l’assurance, de l’éducation et des services.
+🎯 Profil polyvalent à l’intersection de la **science des données**, des **bases de données avancées**, du **service à la clientèle / assurance** .  
+Je développe des solutions analytiques et pédagogiques structurées, orientées données, avec une forte rigueur méthodologique et un souci de clarté.
+
+🔗 **LinkedIn** : https://www.linkedin.com/in/jocelain-landry-aweset  
 
 ---
 
-## 🚀 À propos de moi
+## 🧭 À propos de moi
 
-Je suis un **Data Scientist junior orienté projets**, avec une solide formation en **science des données appliquée**, combinée à une expérience concrète en **service à la clientèle, assurance de dommages**
+Je possède un parcours multidisciplinaire combinant :
+- 📊 **Science des données & bases de données** (Python, SQL, analyse statistique)
+- 🛡️ **Assurance de dommages & service à la clientèle** (conformité, analyse des besoins)
+- 🎓 **Éducation / pédagogie** (planification, évaluation, jeux éducatifs)
 
-Mon profil est hybride :
-- 📊 **Analyse et modélisation de données**
-- 🧠 **Machine Learning supervisé**
-- 🏦 **Données assurance & finance**
-- 🎓 **Pédagogie, vulgarisation et communication des résultats**
-
-J’accorde une grande importance à la **qualité des données**, à la **rigueur méthodologique** et à la **clarté des livrables** (notebooks, rapports, visualisations).
+Cette diversité me permet d’aborder les problèmes avec une **vision analytique**, **humaine** et **structurée**, autant dans des contextes techniques que professionnels.
 
 ---
 
 ## 🛠️ Compétences techniques
 
-### 📊 Analyse & Data Science
-- Analyse exploratoire des données (EDA)
-- Nettoyage, transformation et préparation des données
-- Statistiques descriptives et inférentielles
-- Gestion des valeurs aberrantes (IQR, capping, winsorisation)
-- Feature engineering
+### 📊 Données & Analyse
+- Python (Pandas, NumPy, Matplotlib)
+- Analyse exploratoire de données (EDA)
+- Statistiques appliquées
+- Classification supervisée (KNN, arbres de décision, forêts aléatoires)
+- Traitement des valeurs aberrantes (IQR, winsorisation)
 
-### 🤖 Machine Learning
-- Classification supervisée :
-  - KNN
-  - Arbres de décision
-  - Forêts aléatoires
-  - Régression logistique
-- Évaluation des modèles :
-  - Accuracy, Precision, Recall, F1-score
-  - Matrice de confusion
-- Gestion du déséquilibre des classes (SMOTE)
+### 🗃️ Bases de données
+- SQL Server
+- Conception de bases relationnelles
+- Procédures stockées, fonctions, triggers
+- Automatisation des imports (CSV, BULK INSERT)
+- Requêtes analytiques avancées
 
-### 🧰 Outils & Technologies
-- **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
-- **Jupyter Notebook / VS Code**
-- **R** (analyse statistique, tests, visualisation)
-- **SQL / SQL Server**
-- **Git & GitHub**
-- **Excel avancé**
+### 💼 Outils & Environnements
+- Git / GitHub
+- Jupyter Notebook
+- Visual Studio Code
+- SQL Server Management Studio (SSMS)
 
 ---
 
-## 📁 Projets principaux
+## ⭐ Projet phare
 
-### 🔹 Classification de données bancaires
-- Jeu de données : `bank-full`
-- Objectif : prédire la souscription à un produit financier
-- Modèles : KNN, Arbre de décision, Forêt aléatoire
-- Évaluation comparative des performances
+### 📊 Projet UA3 – Base de Données Avancées (Ontario 511)
+
+🔗 **Dépôt GitHub** :  
+https://github.com/RoslinIvan/Projet_UA3_BDA
+
+**Contexte**  
+Projet réalisé dans le cadre de l’UA3 – Bases de données avancées.  
+Objectif : concevoir un **système entièrement automatisé en SQL Server** pour intégrer, structurer et analyser les données routières de l’Ontario (Ontario 511), **sans utiliser de code Python**.
+
+**Fonctionnalités clés**
+- 📥 Import automatique de fichiers CSV (BULK INSERT)
+- 🧱 Modélisation relationnelle complète
+- 🔁 Triggers pour historisation et contrôle d’intégrité
+- ⚙️ Procédures stockées pour :
+  - importation
+  - archivage
+  - calcul d’indicateurs
+  - génération de rapports analytiques
+- ⏱️ Automatisation via SQL Server Agent / tâches planifiées
+
+**Types de données traitées**
+- Événements routiers
+- Travaux et fermetures
+- Caméras de surveillance
+- Conditions routières en temps réel
+
+**Apports du projet**
+✔️ Démonstration solide de compétences en **SQL avancé**  
+✔️ Approche professionnelle orientée **scalabilité et automatisation**  
+✔️ Projet directement applicable à des contextes **BI / data engineering**
+
+---
+
+## 📁 Autres projets (sélection)
+
+### 🔹 Analyse de données – Bitcoin 2017
+- Analyse exploratoire et visualisation
+- Traitement de données temporelles
+- Interprétation statistique des tendances
+
+### 🔹 Classification supervisée – Données bancaires
+- KNN, arbre de décision, forêt aléatoire
 - Gestion du déséquilibre des classes
+- Comparaison des performances des modèles
 
-📂 Repo : `bank-classification-ml`
-
----
-
-### 🔹 Analyse du prix du Bitcoin (2017)
-- Analyse exploratoire et visualisation des tendances
-- Étude de la volatilité
-- Implémentation en **R**
-- Travail académique structuré (script + interprétation)
-
-📂 Repo : `bitcoin-price-analysis-2017`
+### 🔹 Jeux éducatifs interactifs (Études sociales – Ontario)
+- Conception de jeux pédagogiques
+- Alignement sur le curriculum de l’Ontario
+- Évaluation formative et engagement des élèves
 
 ---
 
-### 🔹 Analyse de texte simple (Java)
-- Nettoyage et analyse de corpus textuel
-- Comptage de fréquences
-- Extraction d’informations clés
-- Projet orienté **science des données**
+## 💼 Expérience professionnelle (aperçu)
 
-📂 Repo : `text-analysis-java`
-
----
-
-### 🔹 Projet SQL avancé – Automatisation CSV
-- Chargement automatique de fichiers CSV
-- Tables relationnelles
-- Procédures stockées, fonctions et triggers
-- Rapports SQL
-- Sans Python (SQL pur)
-
-📂 Repo : `advanced-sql-automation`
+- Service à la clientèle (environnements à volume élevé)
+- Formation et pratique en assurance de dommages
+- Analyse des besoins, conformité et communication client
+- Expériences en contexte éducatif et pédagogique
 
 ---
 
-## 🏫 Formation
+## 🎯 Objectifs professionnels
 
-- 🎓 **Science des données appliquée** – Collège La Cité  
-  *(Statistiques, ML, Big Data, SQL avancé)*
-
-- 🎓 **Formation en assurance de dommages (AMF)**  
-  *(Habitation, automobile, responsabilité)*
-
-- 🎓 **Formation universitaire en éducation**  
-  *(Communication, pédagogie, analyse réflexive)*
-
----
-
-## 📌 Domaines d’intérêt
-
-- Data Science appliquée à l’assurance
-- Analyse des risques et sinistres
-- Éducation et données pédagogiques
-- Visualisation et communication des données
-- Modèles explicables (Explainable AI)
+Je m’intéresse particulièrement aux rôles liés à :
+- 📊 Analyse de données / BI
+- 🗃️ Bases de données et automatisation
+- 🛡️ Assurance & services financiers
+- 🎓 Projets éducatifs appuyés par les données
 
 ---
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : *(à ajouter)*
-- 📧 Email : *(à ajouter)*
-- 🌐 Portfolio GitHub : **github.com/ton-username**
+- 🔗 **LinkedIn** : https://www.linkedin.com/in/jocelain-landry-aweset  
+- 📂 **GitHub** : https://github.com/Jocelainlandry
 
 ---
 
-⭐ *N’hésite pas à explorer mes dépôts et notebooks. Les retours et collaborations sont les bienvenus !*
+⭐ *Merci de visiter mon portfolio GitHub !*
