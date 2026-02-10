@@ -8,7 +8,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis un **Data Scientist junior orienté projets**, avec une solide formation en **science des données appliquée**, combinée à une expérience concrète en **service à la clientèle, assurance de dommages et enseignement**.
+Je suis un **Data Scientist junior orienté projets**, avec une solide formation en **science des données appliquée**, combinée à une expérience concrète en **service à la clientèle, assurance de dommages**
 
 Mon profil est hybride :
 - 📊 **Analyse et modélisation de données**
